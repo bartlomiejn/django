@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/pages_proj" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/templates" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (algos-ds)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
